@@ -1,0 +1,6 @@
+{
+    "google places": "Your API key",
+    "weatherapi"   : "Your API key",
+    "alphavantage" : "Your API key",
+    "openai" : "Your OpenAI API key"
+}
