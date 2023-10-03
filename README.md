@@ -10,6 +10,8 @@ EcoAssistant: using LLM assistant more affordably and accurately
 EcoAssistant is a framework that can make the LLM assistant more affordable and accurate for code-driven question answering. It is based on the idea of **assistant hierarchy** and **solution demonstration**.
 It is built upon [AutoGen](https://github.com/microsoft/autogen).
 
+![](https://github.com/JieyuZ2/EcoAssistant/blob/main/assets/system.png?raw=true)
+
 ### What is LLM assistant?
 
 LLM assistant is an assistant agent backed by conversational LLM such as ChatGPT and GPT-4 and is able to address user query in a conversation.
