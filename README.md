@@ -19,6 +19,9 @@ LLM assistant is an assistant agent backed by conversational LLM such as ChatGPT
 Code-driven question answering is a task that requires the LLM assistant to write code to call external APIs to answer the question. 
 For example, given the question "What is the average temperature of the city X in the next 5 days?", the assistant needs to write code to get the weather information via certain APIS and calculate the average temperature of the city X in the next 5 days.
 
+Code-driven question answering requires iterative coding, because, just like human, LLM can hardly write the correct code at the first attempt.
+Therefore, the assistant needs to interact with the user to get feedback and revise the code iteratively until the code is correct.
+We built our system on a **two-agent conversation framework**, where the LLM assistant is coupled with a code executor agent that can automatically execute the code and return the output to the LLM assistant.
 
 ### What is assistant hierarchy?
 
