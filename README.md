@@ -120,3 +120,15 @@ This script would print the code outputs.
 ```bash
 python3 run_gold_code_for_mix_100.py
 ```
+
+## :paperclip: Cite
+
+If you find this repository useful, please consider citing:
+```bibtex
+@article{zhang2023ecoassistant,
+  title={EcoAssistant: Using LLM Assistant More Affordably and Accurately},
+  author={Zhang, Jieyu and Krishna, Ranjay and Awadallah, Ahmed H and Wang, Chi},
+  journal={arXiv preprint arXiv:2310.03046},
+  year={2023}
+}
+```
