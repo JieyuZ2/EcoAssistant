@@ -15,6 +15,8 @@ tags: [LMM, RAG, cost-effectiveness]
 
 ## EcoAssistant
 
+In this blog, we introduce the **EcoAssistant**, a system built upon AutoGen with the goal of solving user queries more accurately and affordably.
+
 ### Problem setup
 
 Recently, users have been using conversational LLMs such as ChatGPT for various queries.
@@ -84,9 +86,11 @@ For more details about the experimental results and other experiments, please re
 
 ![exp](img/results.png)
 
-## Citation
+## Further reading
 
-If you find this repository useful, please consider citing:
+Please refer to our [paper](https://arxiv.org/abs/2310.03046) for more details about **EcoAssistant**.
+
+If you find this blog useful, please consider citing:
 
 ```bibtex
 @article{zhang2023ecoassistant,
