@@ -88,7 +88,7 @@ For more details about the experimental results and other experiments, please re
 
 ## Further reading
 
-Please refer to our [paper](https://arxiv.org/abs/2310.03046) for more details about **EcoAssistant**.
+Please refer to our [paper](https://arxiv.org/abs/2310.03046) and [codebase](https://github.com/JieyuZ2/EcoAssistant) for more details about **EcoAssistant**.
 
 If you find this blog useful, please consider citing:
 
