@@ -2,6 +2,8 @@
 
 EcoAssistant: using LLM assistant more affordably and accurately
 
+**Check out our [blog](https://microsoft.github.io/autogen/blog/2023/11/09/EcoAssistant) in AutoGen website!**
+
 
 ## Introduction
 
